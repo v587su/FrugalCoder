@@ -1,0 +1,13 @@
+*.txt
+run_scripts
+__pycache__
+output
+data
+*.pyc
+.vscode
+cached
+lightning_logs
+test
+*.csv
+*annotat*
+copilot_eval
